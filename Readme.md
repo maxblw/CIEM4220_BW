@@ -1,1 +1,1 @@
-First Commit
+Repository for the Breakwater assignment for CIEM4220-Dams, Dikes and Breakwaters
